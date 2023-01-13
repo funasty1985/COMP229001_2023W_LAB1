@@ -1,0 +1,4 @@
+Notes
+
+1. In order to load index.html in Chrome, install liveserver plugin in vscode
+2. order to use module-style-js, add "type=module" to <script/>
